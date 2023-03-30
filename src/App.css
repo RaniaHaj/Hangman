@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.selected {
+  text-decoration: line-through;
+  font-size: 30px;
+  margin-left: 5px;
+}
+
+.letter {
+  font-size: 30px;
+  margin-left: 5px;
+}
+
+.label {
+  font-size: 30px;
+  margin-left: 5px;
+}
